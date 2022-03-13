@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atg/static/css/main.92beacf3.css",
+    "main.js": "/atg/static/js/main.fc016505.js",
+    "index.html": "/atg/index.html",
+    "main.92beacf3.css.map": "/atg/static/css/main.92beacf3.css.map",
+    "main.fc016505.js.map": "/atg/static/js/main.fc016505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92beacf3.css",
+    "static/js/main.fc016505.js"
+  ]
+}
