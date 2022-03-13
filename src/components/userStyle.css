@@ -1,0 +1,59 @@
+.user{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 7rem;
+    padding-top: 0.6rem;
+}
+.back{
+    margin:0 1rem;
+    font-size: 2rem;
+}
+.user-detail{
+       display: flex;
+       font-size: 1.4rem;
+       flex-direction: row;
+       justify-content: center;
+       align-items: center;
+}
+div img{
+    width: 50px;
+    height: 50px;
+    margin-right: 0.83rem;
+}
+div p{
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 330px){
+     .user{
+         gap: 0.2;
+     }
+     .back{
+         font-size: 1.3rem;
+     }
+     .user-detail{
+         font-size: 1rem;
+         margin-left: -1.3rem;
+     }
+     div img{
+         width: 35px;
+         height: 35px;
+     }
+}
+@media only screen and (max-width: 500px){
+    .user{
+        gap: 3.5rem;
+    }
+    .back{
+        font-size: 1.7rem;
+    }
+    .user-detail{
+        font-size: 1.5rem;
+    }
+    div img{
+        width: 45px;
+        height: 45px;
+        /* margin: 0rem; */
+    }
+} 
