@@ -18,7 +18,7 @@ const Popup = ({productDetails, pop}) => {
                   </div >
                   <div className="main-2">
                      <h3> {name} </h3>
-                     <h3> 4.4* </h3>
+                     <h3> 4.4*** </h3>
                   </div>
                   <div className='main-3'>
                      <h2> {title} `- ryrrs what you think about this this is very beautiful product do you want to buy it.` </h2>
